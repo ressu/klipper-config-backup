@@ -12,3 +12,5 @@ printer-[0-9]*_[0-9]*.cfg
 *.csv
 *.zip
 .vscode
+K-ShakeTune_results
+old
