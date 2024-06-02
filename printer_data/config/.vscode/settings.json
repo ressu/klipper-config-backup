@@ -1,0 +1,5 @@
+{
+    "files.exclude": {
+        "printer-*_*.cfg": true
+    }
+}

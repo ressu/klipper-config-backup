@@ -1,0 +1,13 @@
+.env
+secrets.conf
+*.swp
+.bash_history-01967.tmp
+.bash_history-03801.tmp
+.bash_history-04497.tmp
+.bash_history-09273.tmp
+.bash_history-72497.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+*.csv
+*.zip
