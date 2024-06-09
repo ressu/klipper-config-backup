@@ -11,3 +11,5 @@ printer-[0-9]*_[0-9]*.cfg
 .vscode
 K-ShakeTune_results
 old
+disabled
+AUTO_SPEED_GRAPH_*
