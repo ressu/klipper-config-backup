@@ -10,17 +10,12 @@ enable_object_processing: True
 
 [authorization]
 cors_domains:
-    *.lan
-    *.local
-    *://localhost
-    *://localhost:*
     https://my.mainsail.xyz
     http://my.mainsail.xyz
     http://*.local
     http://*.lan
     https://*.home.ressukka.net
     https://app.fluidd.xyz
-    https://klippylyzer.github.io
 trusted_clients:
     10.0.0.0/8
     127.0.0.0/8
@@ -97,25 +92,3 @@ origin: https://github.com/julianschill/klipper-led_effect.git
 is_system_service: False
 
 
-
-# Crowsnest update_manager entry
-[update_manager crowsnest]
-type: git_repo
-path: ~/crowsnest
-origin: https://github.com/mainsail-crew/crowsnest.git
-managed_services: crowsnest
-install_script: tools/pkglist.sh
-[update_manager klipper-backup]
-type: git_repo
-path: ~/klipper-backup
-origin: https://github.com/Staubgeborener/klipper-backup.git
-managed_services: moonraker
-primary_branch: main
-
-[update_manager filter_monitor]
-type: git_repo
-path: ~/klipper-filter_monitor
-origin: https://github.com/blankhaus/klipper-filter_monitor.git
-managed_services: klipper moonraker
-primary_branch: main
-install_script: install.sh
