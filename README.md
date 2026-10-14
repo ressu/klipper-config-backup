@@ -31,3 +31,5 @@ them there, and keeps its own changes. To see the status of each file, run `prin
 on the printer.
 
 - `test_speed.cfg`
+- `stealthburner_leds.cfg`
+- `mainsail.cfg`

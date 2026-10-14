@@ -1,6 +1,12 @@
 {
   "version": 1,
   "files": {
+    "mainsail.cfg": {
+      "base": "c2fc82e3f10fc4d80c2f1f4c64e552645ad96909"
+    },
+    "stealthburner_leds.cfg": {
+      "base": "c2fc82e3f10fc4d80c2f1f4c64e552645ad96909"
+    },
     "test_speed.cfg": {
       "base": "c2fc82e3f10fc4d80c2f1f4c64e552645ad96909"
     }
