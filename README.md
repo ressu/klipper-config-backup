@@ -19,7 +19,7 @@ For example after a new SD card:
 3. Run this on the printer:
 
    ```sh
-   printerkeep restore https://github.com/ressu/klipper-config-backup --printer-name bluev2
+   printerkeep restore --repository https://github.com/ressu/klipper-config-backup --printer-name bluev2
    ```
 
 4. Restart Moonraker and Klipper.
