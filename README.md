@@ -23,3 +23,11 @@ For example after a new SD card:
    ```
 
 4. Restart Moonraker and Klipper.
+
+## Shared files
+
+This printer follows these files from the `shared` branch. It gets the changes that are made to
+them there, and keeps its own changes. To see the status of each file, run `printerkeep status`
+on the printer.
+
+- `macros/filament.cfg`
