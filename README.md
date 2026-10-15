@@ -31,3 +31,6 @@ them there, and keeps its own changes. To see the status of each file, run `prin
 on the printer.
 
 - `macros/filament.cfg`
+- `macros/spoolman.cfg`
+- `macros/reset.cfg`
+- `macros/temperature.cfg`
