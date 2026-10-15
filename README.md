@@ -34,3 +34,6 @@ on the printer.
 - `stealthburner_leds.cfg`
 - `mainsail.cfg`
 - `macros/filament.cfg`
+- `macros/spoolman.cfg`
+- `macros/reset.cfg`
+- `macros/temperature.cfg`
