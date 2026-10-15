@@ -33,3 +33,4 @@ on the printer.
 - `test_speed.cfg`
 - `stealthburner_leds.cfg`
 - `mainsail.cfg`
+- `macros/filament.cfg`

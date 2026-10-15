@@ -1,6 +1,9 @@
 {
   "version": 1,
   "files": {
+    "macros/filament.cfg": {
+      "base": "e541f248ea0aa9245f46f97cadd5e1eefc22f576"
+    },
     "mainsail.cfg": {
       "base": "a3028ad3fdf7d8a5ec5fbf5edfd27a4dd954a19b"
     },
