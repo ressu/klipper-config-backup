@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "files": {
+    "macros/filament.cfg": {
+      "base": "e541f248ea0aa9245f46f97cadd5e1eefc22f576"
+    }
+  }
+}
