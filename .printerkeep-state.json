@@ -1,6 +1,9 @@
 {
   "version": 1,
   "files": {
+    "features/beeper.cfg": {
+      "base": "50637be3270587e5808bdcfe3dea903023baa3c1"
+    },
     "macros/filament.cfg": {
       "base": "e541f248ea0aa9245f46f97cadd5e1eefc22f576"
     },

@@ -37,3 +37,4 @@ on the printer.
 - `macros/spoolman.cfg`
 - `macros/reset.cfg`
 - `macros/temperature.cfg`
+- `features/beeper.cfg`
