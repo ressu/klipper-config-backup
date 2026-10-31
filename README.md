@@ -38,3 +38,5 @@ on the printer.
 - `macros/reset.cfg`
 - `macros/temperature.cfg`
 - `features/beeper.cfg`
+- `macros/adaptive_purge.cfg`
+- `macros/squiggly_purge.cfg`

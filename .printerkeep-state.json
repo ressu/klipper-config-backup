@@ -4,6 +4,9 @@
     "features/beeper.cfg": {
       "base": "50637be3270587e5808bdcfe3dea903023baa3c1"
     },
+    "macros/adaptive_purge.cfg": {
+      "base": "54f6f314b47cffc20277b08e2b1b3d9c8aabd8f5"
+    },
     "macros/filament.cfg": {
       "base": "e541f248ea0aa9245f46f97cadd5e1eefc22f576"
     },
@@ -12,6 +15,9 @@
     },
     "macros/spoolman.cfg": {
       "base": "993879ccf1c7b6fc7a64a71550ed402c47d90cbe"
+    },
+    "macros/squiggly_purge.cfg": {
+      "base": "54f6f314b47cffc20277b08e2b1b3d9c8aabd8f5"
     },
     "macros/temperature.cfg": {
       "base": "993879ccf1c7b6fc7a64a71550ed402c47d90cbe"
