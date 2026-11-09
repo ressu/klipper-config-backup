@@ -11,11 +11,13 @@ This repository holds the Klipper configuration of several printers, backed up b
 | Printer | Follows from shared |
 | --- | --- |
 | [bluev2](https://github.com/ressu/klipper-config-backup/tree/bluev2) | `test_speed.cfg`, `stealthburner_leds.cfg`, `mainsail.cfg`, `macros/filament.cfg`, `macros/spoolman.cfg`, `macros/reset.cfg`, `macros/temperature.cfg`, `features/beeper.cfg`, `macros/adaptive_purge.cfg`, `macros/squiggly_purge.cfg` |
+| [pink-0](https://github.com/ressu/klipper-config-backup/tree/pink-0) | `macros/filament.cfg`, `macros/spoolman.cfg`, `macros/reset.cfg`, `macros/temperature.cfg` |
 
 ```mermaid
 flowchart LR
   shared[(shared)]
   p0["bluev2"] -- follows --> shared
+  p1["pink-0"] -- follows --> shared
 ```
 
 Each printer updates its own row when it checks the repository, so the list can be behind for a
